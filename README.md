@@ -28,4 +28,6 @@ The Redmi Note 14 Pro 5G Global (codenamed "malachite") is a cheap flagship smar
 
 ![Redmi Note 14 Pro 5G Global](https://i02.appmifile.com/357_operator_sg/31/12/2024/b4ba8b70785c48c58faa37af1190bd1b.png)
 
+Edited for minimalTWRP 12.1 by Alaskalinuxuser
+
 Copyright (C) 2025 Kagenay.
