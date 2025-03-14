@@ -12,13 +12,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common_full_phone.mk)
 
 # Inherit from generic device
-$(call inherit-product, device/xiaomi/generic/device.mk)
+$(call inherit-product, device/xiaomi/malachite/device.mk)
 
-PRODUCT_DEVICE := generic
-PRODUCT_NAME := twrp_generic
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := mainline
-PRODUCT_MANUFACTURER := xiaomi
+PRODUCT_DEVICE := malachite
+PRODUCT_NAME := twrp_malachite
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Xiaomi Redmi Note 14 Pro 5G
+PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 

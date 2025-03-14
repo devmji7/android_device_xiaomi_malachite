@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_generic.mk
+    $(LOCAL_DIR)/twrp_malachite.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_generic-user \
-    twrp_generic-userdebug \
-    twrp_generic-eng
+    twrp_malachite-user \
+    twrp_malachite-userdebug \
+    twrp_malachitec-eng
