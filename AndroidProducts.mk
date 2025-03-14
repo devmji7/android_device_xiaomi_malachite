@@ -10,4 +10,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     twrp_malachite-user \
     twrp_malachite-userdebug \
-    twrp_malachitec-eng
+    twrp_malachite-eng
